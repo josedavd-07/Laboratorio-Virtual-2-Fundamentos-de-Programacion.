@@ -1,0 +1,14 @@
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\bin\Debug\net6.0\Problema #2 - Ejercicio #8.exe
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\bin\Debug\net6.0\Problema #2 - Ejercicio #8.deps.json
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\bin\Debug\net6.0\Problema #2 - Ejercicio #8.runtimeconfig.json
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\bin\Debug\net6.0\Problema #2 - Ejercicio #8.dll
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\bin\Debug\net6.0\Problema #2 - Ejercicio #8.pdb
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\obj\Debug\net6.0\Problema #2 - Ejercicio #8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\obj\Debug\net6.0\Problema #2 - Ejercicio #8.AssemblyInfoInputs.cache
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\obj\Debug\net6.0\Problema #2 - Ejercicio #8.AssemblyInfo.cs
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\obj\Debug\net6.0\Problema #2 - Ejercicio #8.csproj.CoreCompileInputs.cache
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\obj\Debug\net6.0\Problema #2 - Ejercicio #8.dll
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\obj\Debug\net6.0\refint\Problema #2 - Ejercicio #8.dll
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\obj\Debug\net6.0\Problema #2 - Ejercicio #8.pdb
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\obj\Debug\net6.0\Problema #2 - Ejercicio #8.genruntimeconfig.cache
+D:\Grupo - 213022_77_Paso5_JOSE DAVID CARRANZA ANGARITA\Problema #2 - Ejercicio #8\obj\Debug\net6.0\ref\Problema #2 - Ejercicio #8.dll
